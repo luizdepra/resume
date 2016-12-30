@@ -1,7 +1,7 @@
 # Luiz F. A. de Prá
 
-> Generalist Software Developer & Architect<br />
-> Curitiba, Brazil
+**Generalist Software Developer & Software Architect**<br />
+Curitiba, Brazil
 
 - **Homepage:** http://luizdepra.com
 - **Github:** https://github.com/luizdepra
@@ -12,10 +12,10 @@
 
 ### SmartGreen Desenvolvimento de Tecnologias S. A.
 
-> Occupation: Systems Analyst / Software Developer - 2015<br />
-> Projects: SG Suite and SG WINS
->
 > [SmartGreen](http://www.smartgreen.net) develops integrated and automated solutions for smart cities, companies and homes.
+
+**Occupation:** Systems Analyst / Software Developer - 2015<br />
+**Projects:** SG Suite and SG WINS
 
 #### Activities
 
@@ -31,10 +31,10 @@
 
 ### Positivo Infomática TE / CITS
 
-> Occupation: Software Developer - 2012 / 2015<br />
-> Projects: Mundo da Música, Aprimora Produção de Textos, Aprimora Ensino Fundamental and Aprimora ENEM
->
 > [Positivo Infomática TE](http://www.positivoteceduc.com.br) is a branch of the Positivo Group that develops educational software and hardware.
+
+**Occupation:** Software Developer - 2012 / 2015<br />
+**Projects:** Mundo da Música, Aprimora Produção de Textos, Aprimora Ensino Fundamental and Aprimora ENEM
 
 #### Activities
 
@@ -51,10 +51,10 @@
 
 ### Go2nPlay Studios
 
-> Occupation: Software Developer - 2011 / 2012<br />
-> Projects: ColorTracker and 2go.vc
->
 > [Go2nPlay](http://www.go2nplay.com) is digital marketing and multimedia company.
+
+**Occupation:** Software Developer - 2011 / 2012<br />
+**Projects:** ColorTracker and 2go.vc
 
 #### Activities
 
@@ -70,10 +70,11 @@
 
 ### Techfront Studios
 
-> Occupation: Game Developer - 2010 / 2011<br />
-> Projects: Satisfashion
->
 > [Techfront Studios](http://www.techfront.com.br) is game development and gamification company.
+
+
+**Occupation:** Game Developer - 2010 / 2011<br />
+**Projects:** Satisfashion
 
 #### Activities
 
@@ -86,9 +87,10 @@
 
 ### MPS Informática
 
-> Occupation: Intern Developer and Software Developer - 2008 / 2010
->
 > [MPS](http://www.mps.com.br) is a company that offers software development, management, consultancy and support for other companies of the public and private sector.
+
+**Occupation:** Intern Developer and Software Developer - 2008 / 2010
+**Projects:** ERPs for TJPR
 
 #### Activities
 
@@ -107,19 +109,19 @@
 - **[Cebolatol](https://github.com/julianolf/cebolatol):** A translator to Cebolinha's language. Coauthor.
 - **[Tin](https://github.com/TinTeam/Tin/tree/feature/project_structure):** A gamedev framework written in C++ using SDL.
 - **[S.W.D.N.P.I.V.](https://github.com/luizdepra/swdnpiv):** A tentative of spaceship game, developed with JavaScript and Three.js.
-- **[Dotfiles](https://github.com/luizdepra/dotfiles):** My dotfiles that includes zsh, vim and tmux configurations.
+- **[Dotfiles](https://github.com/luizdepra/dotfiles):** My dotfiles that include zsh, vim and tmux configurations.
 
 ---
 ## Education
 
 ### Pontifícia Universidade Católica do Paraná / PUC-PR
 
-> Game Development Specialist - 2012 / 2014<br />
-> Final Project: [LeafWind](http://www.indiedb.com/games/leafwind)
+**Game Development Specialist - 2012 / 2014**<br />
+**Final Project:** [LeafWind](http://www.indiedb.com/games/leafwind)
 
 ### Universidade Federal do Paraná / UFPR
 
-> Bachelor's Degree, Computer Science - 2005 / 2010<br />
-> Final Project: Experiment of Multidimensional Search over KD and KDB trees versus Relational Databases
+**Bachelor's Degree, Computer Science - 2005 / 2010**<br />
+**Final Project:** Experiment of Multidimensional Search over KD and KDB trees versus Relational Databases
 
 ---
