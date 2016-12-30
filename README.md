@@ -89,7 +89,7 @@ Curitiba, Brazil
 
 > [MPS](http://www.mps.com.br) is a company that offers software development, management, consultancy and support for other companies of the public and private sector.
 
-**Occupation:** Intern Developer and Software Developer - 2008 / 2010
+**Occupation:** Intern Developer and Software Developer - 2008 / 2010<br />
 **Projects:** ERPs for TJPR
 
 #### Activities
